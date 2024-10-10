@@ -1,24 +1,24 @@
  # include <stdio.h>
  # include <stdbool.h>
-int main() {
-    int code;
-    while(true){
-		printf("Show me your code,please.");
-        scanf("%d",code);
-        if(code >= 100000 || code <= 999999){printf("I am super hacker!");
-        return code;
-		}else printf("Fake code!");
-    }
-    return 0;
-}
+int main() {<br>
+    int code;<br>
+    while(true){<br>
+		printf("Show me your code,please.");<br>
+        scanf("%d",code);<br>
+        if(code >= 100000 || code <= 999999){printf("I am super hacker!");<br>
+        return code;<br>
+		}else printf("Fake code!");<br>
+    }<br>
+    return 0;<br>
+}<br>
 
-helloc.c
- # include <stdio.h>
+helloc.c<br>
+ # include <stdio.h><br>
 
-int main() {
-    printf("Hello, glimmer!");
-    return 0;
-}
+int main() {<br>
+    printf("Hello, glimmer!");<br>
+    return 0;<br>
+}<br>
 
 最大公约数
  # include <stdio.h>
