@@ -1,5 +1,5 @@
- # # include <stdio.h>
- # # include <stdbool.h>
+ # include <stdio.h>
+ # include <stdbool.h>
 int main() {
     int code;
     while(true){
@@ -12,16 +12,16 @@ int main() {
     return 0;
 }
 
-### helloc.c
- # # include <stdio.h>
+helloc.c
+ # include <stdio.h>
 
 int main() {
     printf("Hello, glimmer!");
     return 0;
 }
 
-### 最大公约数
- # # include <stdio.h>
+最大公约数
+ # include <stdio.h>
 
 int main(){
 	int m,n,c;
